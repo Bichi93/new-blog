@@ -10,6 +10,7 @@
 </head>
 <body>
     <div class="container">
+        {{-- CONTENT BLOCK HERER --}}
         @yield('content')
     </div>
     @yield('footer')
